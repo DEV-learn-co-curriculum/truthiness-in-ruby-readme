@@ -9,7 +9,7 @@ lesson: truthiness
 ---
 
 # Truthiness
-
+test
 ## Introduction
 
 Many programming languages, including Ruby, have native boolean (true and false) data types.  In Ruby they're called `true` and `false`. 
