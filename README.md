@@ -34,7 +34,7 @@ In Ruby only false and nil are falsey.  Everything else is truthy (yes, even 0 i
 |[1,2]         | yes     |
 |{:hi=>"there"}| yes     |
 
-You get the idea!
+**You get the idea!**
 
 ## Resources
 * [JFarmer's Gists](https://gist.github.com/jfarmer/) - [Truthy and Falsey in Ruby](https://gist.github.com/jfarmer/2647362)
